@@ -1,91 +1,457 @@
 {
   "exercisesDB": [
-    { "id": 1, "title": "Job In Life" ,"VA": 40, "AV": 50, "L": 70},
-    { "id": 2, "title": "Job In Life" ,"VA": 10, "AV": 20, "L": 100},
-    { "id": 3, "title": "Job In Life" ,"VA": 70, "AV": 70, "L": 75 },
-    { "id": 4, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 },
-    { "id": 5, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 },
-    { "id": 6, "title": "Job In Life" ,"VA": 100, "AV": 90, "L": 90 },
-    { "id": 7, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 },
-    { "id": 8, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 },
-    { "id": 9, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 },
-    { "id": 10, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 },
-    { "id": 11, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 },
-    { "id": 12, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 },
-    { "id": 13, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 },
-    { "id": 14, "title": "Job In Life" ,"VA": 0, "AV": 0, "L": 0 }
+    {
+      "id": 1,
+      "title": "Job In Life",
+      "VA": 40,
+      "AV": 50,
+      "L": 70
+    },
+    {
+      "id": 2,
+      "title": "activity",
+      "VA": 10,
+      "AV": 20,
+      "L": 100
+    },
+    {
+      "id": 3,
+      "title": "fruite",
+      "VA": 70,
+      "AV": 70,
+      "L": 75
+    },
+    {
+      "id": 4,
+      "title": "furniture",
+      "VA": 0,
+      "AV": 0,
+      "L": 0
+    },
+    {
+      "id": 5,
+      "title": "street",
+      "VA": 0,
+      "AV": 0,
+      "L": 0
+    },
+    {
+      "id": 6,
+      "title": "street",
+      "VA": 0,
+      "AV": 0,
+      "L": 0
+    }
   ],
-  
   "practisesDB": [
-    { "id": 1, "easy": 100, "hard": 90 },
-    { "id": 2, "easy": 30, "hard": 70 },
-    { "id": 3, "easy": 50, "hard": 60 },
-    { "id": 4, "easy": 40, "hard": 100 },
-    { "id": 5, "easy": 0, "hard": 0},
-    { "id": 6, "easy": 0, "hard": 0},
-    { "id": 7, "easy": 0, "hard": 0},
-    { "id": 8, "easy": 0, "hard": 0},
-    { "id": 9, "easy": 0, "hard": 0},
-    { "id": 10, "easy": 0, "hard": 0},
-    { "id": 11, "easy": 0, "hard": 0},
-    { "id": 12, "easy": 0, "hard": 0},
-    { "id": 13, "easy": 0, "hard": 0},
-    { "id": 14, "easy": 0, "hard": 0}
+    {
+      "id": 1,
+      "easy": 100,
+      "hard": 90
+    },
+    {
+      "id": 2,
+      "easy": 30,
+      "hard": 70
+    },
+    {
+      "id": 3,
+      "easy": 50,
+      "hard": 60
+    },
+    {
+      "id": 4,
+      "easy": 40,
+      "hard": 100
+    },
+    {
+      "id": 5,
+      "easy": 0,
+      "hard": 0
+    },
+    {
+      "id": 6,
+      "easy": 0,
+      "hard": 0
+    },
+    {
+      "id": 7,
+      "easy": 0,
+      "hard": 0
+    },
+    {
+      "id": 8,
+      "easy": 0,
+      "hard": 0
+    },
+    {
+      "id": 9,
+      "easy": 0,
+      "hard": 0
+    },
+    {
+      "id": 10,
+      "easy": 0,
+      "hard": 0
+    },
+    {
+      "id": 11,
+      "easy": 0,
+      "hard": 0
+    },
+    {
+      "id": 12,
+      "easy": 0,
+      "hard": 0
+    },
+    {
+      "id": 13,
+      "easy": 0,
+      "hard": 0
+    },
+    {
+      "id": 14,
+      "easy": 0,
+      "hard": 0
+    }
   ],
-
-  "audiosDB":[
-    { "id": 1 },
-    { "id": 2 },
-    { "id": 3 },
-    { "id": 4 },
-    { "id": 5 },
-    { "id": 6 },
-    { "id": 7 },
-    { "id": 8 },
-    { "id": 9 },
-    { "id": 10 },
-    { "id": 11 },
-    { "id": 12 },
-    { "id": 13 },
-    { "id": 14 }
+  "audiosDB": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    }
   ],
-
-  "exerciseUnit1DB":[
-    {"id":1 , "type":"" , "eng":"Bodyguard " , "vi":"Vệ sĩ" , "na":"ˈbɒdɪˌgɑːd" },
-    {"id":2 , "type":"" , "eng":"Judge " , "vi":"Quan tòa" , "na":"ˈʤʌʤ" },
-    {"id":3 , "type":"" , "eng":"Programmer " , "vi":"Lập trình viên" , "na":"ˈprəʊgræmə" },
-    {"id":4 , "type":"" , "eng":"Lawyer " , "vi":"Luật sư" , "na":"ˈlɔːjə" },
-    {"id":5 , "type":"" , "eng":"Software developer " , "vi":"Nhân viên phát triển phần mềm" , "na":"ˈsɒftweə dɪˈvɛləpə" },
-    {"id":6 , "type":"" , "eng":"Web develope " , "vi":"NV phát triển mạng" , "na":"wɛb develope" },
-    {"id":7 , "type":"" , "eng":"Accountant " , "vi":"Kế toán" , "na":"əˈkaʊntənt" },
-    {"id":8 , "type":"" , "eng":"Marketing director " , "vi":"Gám đốc marketing" , "na":"ˈmɑːkɪtɪŋ dɪˈrɛktə" }
+  "exerciseUnit1DB": [
+    {
+      "id": 1,
+      "type": "",
+      "eng": "bodyguard",
+      "vi": "vệ sĩ",
+      "na": "ˈbɒdɪˌgɑːd",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "bảo vệ"
+        },
+        {
+          "index": 2,
+          "content": "công an"
+        },
+        {
+          "index": 3,
+          "content": "nhân viên vệ sinh"
+        },
+        {
+          "index": 4,
+          "content": "thợ sửa ống nước"
+        },
+        {
+          "index": 5,
+          "content": "người mẫu"
+        },
+        {
+          "index": 6,
+          "content": "trẻ  trâu"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "",
+      "eng": "judge",
+      "vi": "quan tòa",
+      "na": "ˈʤʌʤ",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "cai ngục"
+        },
+        {
+          "index": 2,
+          "content": "công an"
+        },
+        {
+          "index": 3,
+          "content": "nv y tế"
+        },
+        {
+          "index": 4,
+          "content": "pháp y"
+        },
+        {
+          "index": 5,
+          "content": "tù nhân"
+        },
+        {
+          "index": 6,
+          "content": "đầu bếp"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "",
+      "eng": "programmer",
+      "vi": "lập trình viên",
+      "na": "ˈprəʊgræmə",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "nv phát triển phần mềm"
+        },
+        {
+          "index": 2,
+          "content": "nv thiết kế"
+        },
+        {
+          "index": 3,
+          "content": "nv vệ sinh"
+        },
+        {
+          "index": 4,
+          "content": "thợ sửa ống nước"
+        },
+        {
+          "index": 5,
+          "content": "anh da đen"
+        },
+        {
+          "index": 6,
+          "content": "thứ lười biếng"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "",
+      "eng": "lawyer",
+      "vi": "luật sư",
+      "na": "ˈlɔːjə",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "quan toà"
+        },
+        {
+          "index": 2,
+          "content": "người phán sử"
+        },
+        {
+          "index": 3,
+          "content": "lính"
+        },
+        {
+          "index": 4,
+          "content": "đẹp trai"
+        },
+        {
+          "index": 5,
+          "content": "dại gái"
+        },
+        {
+          "index": 6,
+          "content": "giám đốc"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "",
+      "eng": "software developer",
+      "vi": "nhân viên phát triển phần mềm",
+      "na": "ˈsɒftweə dɪˈvɛləpə",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "lập trình viên"
+        },
+        {
+          "index": 2,
+          "content": "siêu nhân"
+        },
+        {
+          "index": 3,
+          "content": "nv an ninh mạng"
+        },
+        {
+          "index": 4,
+          "content": "nv thiết kế"
+        },
+        {
+          "index": 5,
+          "content": "nhà tạo mẫu tóc"
+        },
+        {
+          "index": 6,
+          "content": "trẻ  trâu"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "",
+      "eng": "web developer",
+      "vi": "nv phát triển mạng",
+      "na": "wɛb develope",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "nv tư vấn"
+        },
+        {
+          "index": 2,
+          "content": "nv tiếp thị"
+        },
+        {
+          "index": 3,
+          "content": "học sinh giỏi"
+        },
+        {
+          "index": 4,
+          "content": "thợ sửa ống nước may mắn"
+        },
+        {
+          "index": 5,
+          "content": "dảk dảk brunh brunh"
+        },
+        {
+          "index": 6,
+          "content": "trẻ  trâu"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "",
+      "eng": "accountant",
+      "vi": "kế toán",
+      "na": "əˈkaʊntənt",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "thu ngân"
+        },
+        {
+          "index": 2,
+          "content": "kiểm kho"
+        },
+        {
+          "index": 3,
+          "content": "nhân viên vệ sinh"
+        },
+        {
+          "index": 4,
+          "content": "thợ sửa ống nước"
+        },
+        {
+          "index": 5,
+          "content": "người mẫu"
+        },
+        {
+          "index": 6,
+          "content": "quản lý"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "",
+      "eng": "marketing director",
+      "vi": "gám đốc marketing",
+      "na": "ˈmɑːkɪtɪŋ dɪˈrɛktə",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "nhà định hướng"
+        },
+        {
+          "index": 2,
+          "content": "công an"
+        },
+        {
+          "index": 3,
+          "content": "lãnh đạo"
+        },
+        {
+          "index": 4,
+          "content": "nhà thiết kế thười trang"
+        },
+        {
+          "index": 5,
+          "content": "người mẫu"
+        },
+        {
+          "index": 6,
+          "content": "trẩu tre"
+        }
+      ]
+    }
   ],
-  "exerciseUnit2DB":[
-    {"id":1 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":2 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":3 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":4 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":5 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":6 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":7 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":8 , "type":"" , "eng":"absolute" , "vi":"mượt mà"}
-  ],
-  "exerciseUnit3DB":[
-    {"id":1 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":2 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":3 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":4 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":5 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":6 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":7 , "type":"" , "eng":"absolute" , "vi":"mượt mà"},
-    {"id":8 , "type":"" , "eng":"absolute" , "vi":"mượt mà"}
-  ],
-
-
-  "storeDB":[
-    {"id":1 , "url":"https://i.pinimg.com/564x/21/03/27/2103275e92f9072c37468942db702e59.jpg"  ,  "name":"Family And Friends 1", "author":"gtl-201","des":"This book suiable for beginer Lear English" , "price":10},
-    {"id":2 , "url":"https://upload.wikimedia.org/wikipedia/vi/thumb/3/34/CharlottevaWilbur.jpg/220px-CharlottevaWilbur.jpg"  ,  "name":"Charlotte And Wilbur", "author":"Gart William","des":"Romantic story about girl and her dog" , "price":15},
-    {"id":3 , "url":"https://bizweb.dktcdn.net/100/326/228/products/the-house-on-mango-street-by-sandra-cisneros.jpg?v=1546509898017"  ,  "name":"The house on Mangor Street", "author":"West of Sun","des":"Vintage Contemporaries" , "price":20 }
+  "storeDB": [
+    {
+      "id": 1,
+      "url": "https://i.pinimg.com/564x/21/03/27/2103275e92f9072c37468942db702e59.jpg",
+      "name": "Family And Friends 1",
+      "author": "gtl-201",
+      "des": "This book suiable for beginer Lear English",
+      "price": 10,
+      "readDemo": "IEZhbWlseSBhbmQgRnJpZW5kcyBsw6AgY2jGsMahbmcgdHLDrG5oIGjhu41jIHRp4bq/bmcgQW5oIGJhbyBn4buTbSAzIGPhuqVwIMSR4buZIGTDoG5oIGNobyBo4buNYyBzaW5oIHRp4buDdSBo4buNYy4NCg0KIFPDoWNoIHPhu60gZOG7pW5nIGNoxrDGoW5nIHRyw6xuaCBnaeG6o25nIGThuqF5IG5n4buvIHBow6FwIHNvbmcgc29uZyBsdXnhu4duIHThuq1wIGPDoWMga8SpIG7Eg25nIHbDoCBuZ+G7ryDDom0uIFbhu5tpIGNoxrDGoW5nIHRyw6xuaCBk4bqheSB2w6AgaOG7jWMgbmjGsCB0aOG6vywgaOG7jWMgc2luaCBjw7MgdGjhu4MgcGjDoXQgdHJp4buDbiDEkcaw4bujYyBz4buxIHThu7EgdGluIHbDoCBraOG6oyBuxINuZyBnaWFvIHRp4bq/cCB0aeG6v25nIEFuaCBoaeG7h3UgcXXhuqMsIGPFqW5nIG5oxrAgY8OhYyBlbSBjw7MgdGjhu4MgaGnhu4N1IHbDoCB44butIGzDrSB0aMO0bmcgdGluIHThu6sgbmhp4buBdSBuZ3Xhu5NuIGtow6FjIG5oYXUuDQoNCiBGYW1pbHkgYW5kIEZyaWVuZHMga+G6v3QgaOG7o3AgaGnhu4d1IHF14bqjIHBoxrDGoW5nIHBow6FwIGdp4bqjbmcgZOG6oXkgdGnhur9uZyBBbmggY+G7p2EgbmfGsOG7nWkgYuG6o24geOG7qSB24bubaSBwaMawxqFuZyBwaMOhcCBnaeG6o25nIGThuqF5IHRp4bq/bmcgQW5oIGNobyBuZ8aw4budaSBo4buNYyBuZ2/huqFpIG5n4buvLg=="
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/34/CharlottevaWilbur.jpg/220px-CharlottevaWilbur.jpg",
+      "name": "Charlotte And Wilbur",
+      "author": "Gart William",
+      "des": "Romantic story about girl and her dog",
+      "price": 15,
+      "readDemo": ""
+    },
+    {
+      "id": 3,
+      "url": "https://bizweb.dktcdn.net/100/326/228/products/the-house-on-mango-street-by-sandra-cisneros.jpg?v=1546509898017",
+      "name": "The house on Mangor Street",
+      "author": "West of Sun",
+      "des": "Vintage Contemporaries",
+      "price": 20,
+      "readDemo": ""
+    }
   ]
-
 }
