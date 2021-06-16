@@ -6,7 +6,21 @@
       "VA": 100,
       "AV": 100,
       "L": 100
-    }
+    },
+    {
+      "id": 2,
+      "title": "Job In Life",
+      "VA": 10,
+      "AV": 100,
+      "L": 20
+     },
+        {
+            "id": 3,
+            "title": "Job In Life",
+            "VA": 10,
+            "AV": 70,
+            "L": 60
+        }
   ],
   "practisesDB": [
     {
